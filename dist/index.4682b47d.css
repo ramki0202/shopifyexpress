@@ -727,6 +727,11 @@ input[type="range"]::-ms-fill-lower {
   background-color: #fff;
 }
 
+.bg-\[\#C0BFBA\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(192 191 186 / var(--tw-bg-opacity) );
+}
+
 .bg-cover {
   background-size: cover;
 }
@@ -842,6 +847,10 @@ input[type="range"]::-ms-fill-lower {
 
 .pr-2 {
   padding-right: .5rem;
+}
+
+.pr-20 {
+  padding-right: 5rem;
 }
 
 .text-center {
